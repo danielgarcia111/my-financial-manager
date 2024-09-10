@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Financial Manager</string>
+    <string name="despesa_cartao">Despesa cartão</string>
+    <string name="descricao">Descrição</string>
+    <string name="categoria">Categoria</string>
+    <string name="selecionar_cartao">Selecionar cartão</string>
+    <string name="recorrencia">Recorrência</string>
+    <string name="data_vencimento">Data de vencimento</string>
+    <string name="valor">Valor</string>
+    <string name="confirmar">Confirmar</string>
+</resources>
