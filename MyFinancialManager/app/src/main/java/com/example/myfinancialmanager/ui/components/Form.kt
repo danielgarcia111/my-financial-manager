@@ -44,6 +44,7 @@ fun BackGroundScreen(){
             TextFieldForm(labelValue = stringResource(id = R.string.valor))
             Spacer(modifier = Modifier.height(20.dp))
             ButtonComponent(value = stringResource(id = R.string.confirmar))
+
         }
 
     }
